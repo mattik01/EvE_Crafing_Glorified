@@ -1,0 +1,1667 @@
+Glorified Decayed 10000MN Afterburner Mutaplasmid Blueprint
+typeID	85945
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 10000MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 10000MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	250
+X-Large Mutaplasmid Residue	250
+Glorified Decayed 100MN Afterburner Mutaplasmid Blueprint
+typeID	85960
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 100MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 100MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed 10MN Afterburner Mutaplasmid Blueprint
+typeID	85954
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 10MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 10MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	60
+Medium Mutaplasmid Residue	60
+Glorified Decayed 1MN Afterburner Mutaplasmid Blueprint
+typeID	85940
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 1MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 1MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed 50000MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85948
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 50000MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 50000MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	250
+X-Large Mutaplasmid Residue	250
+Glorified Decayed 500MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85962
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 500MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 500MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed 50MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85957
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 50MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 50MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	60
+Medium Mutaplasmid Residue	60
+Glorified Decayed 5MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85951
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed 5MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Decayed 5MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Assault Damage Control Mutaplasmid Blueprint
+typeID	85978
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Assault Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Assault Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	60
+Medium Mutaplasmid Residue	60
+Glorified Decayed Ballistic Control System Mutaplasmid Blueprint
+typeID	86059
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Ballistic Control System Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Ballistic Control System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Capital Armor Repairer Mutaplasmid Blueprint
+typeID	85858
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Capital Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Capital Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	250
+X-Large Mutaplasmid Residue	250
+Glorified Decayed Capital Energy Neutralizer Mutaplasmid Blueprint
+typeID	85986
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Capital Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Capital Energy Neutralizer Mutaplasmid	1
+X-Large Mutaplasmid Residue	250
+Engineering Mutaplasmid Residue	250
+Glorified Decayed Capital Energy Nosferatu Mutaplasmid Blueprint
+typeID	85989
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Capital Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Capital Energy Nosferatu Mutaplasmid	1
+X-Large Mutaplasmid Residue	250
+Engineering Mutaplasmid Residue	250
+Glorified Decayed Capital Shield Booster Mutaplasmid Blueprint
+typeID	86023
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Capital Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Capital Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	250
+Shield Mutaplasmid Residue	250
+Glorified Decayed Damage Control Mutaplasmid Blueprint
+typeID	85973
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Entropic Radiation Sink Mutaplasmid Blueprint
+typeID	86070
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Entropic Radiation Sink Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Entropic Radiation Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Gyrostabilizer Mutaplasmid Blueprint
+typeID	86073
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Gyrostabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Gyrostabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Heat Sink Mutaplasmid Blueprint
+typeID	86076
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Heat Sink Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Heat Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Heavy Energy Neutralizer Mutaplasmid Blueprint
+typeID	86009
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Heavy Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Heavy Energy Neutralizer Mutaplasmid	1
+Large Mutaplasmid Residue	125
+Engineering Mutaplasmid Residue	125
+Glorified Decayed Heavy Energy Nosferatu Mutaplasmid Blueprint
+typeID	85985
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Heavy Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Heavy Energy Nosferatu Mutaplasmid	1
+Large Mutaplasmid Residue	125
+Engineering Mutaplasmid Residue	125
+Glorified Decayed Heavy Warp Disruptor Mutaplasmid Blueprint
+typeID	86052
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Heavy Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Heavy Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed Heavy Warp Scrambler Mutaplasmid Blueprint
+typeID	86055
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Heavy Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Heavy Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed Large Armor Plate Mutaplasmid Blueprint
+typeID	85872
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Large Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Large Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed Large Armor Repairer Mutaplasmid Blueprint
+typeID	85875
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Large Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Large Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	125
+Large Mutaplasmid Residue	125
+Glorified Decayed Large Cap Battery Mutaplasmid Blueprint
+typeID	86006
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Large Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Large Cap Battery Mutaplasmid	1
+Large Mutaplasmid Residue	125
+Engineering Mutaplasmid Residue	125
+Glorified Decayed Large Shield Booster Mutaplasmid Blueprint
+typeID	86019
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Large Shield Booster Mutaplasmid	1
+Large Mutaplasmid Residue	125
+Shield Mutaplasmid Residue	125
+Glorified Decayed Large Shield Extender Mutaplasmid Blueprint
+typeID	86039
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Large Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Large Shield Extender Mutaplasmid	1
+Large Mutaplasmid Residue	125
+Shield Mutaplasmid Residue	125
+Glorified Decayed Magnetic Field Stabilizer Mutaplasmid Blueprint
+typeID	86079
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Magnetic Field Stabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Magnetic Field Stabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Medium Armor Plate Mutaplasmid Blueprint
+typeID	85866
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	60
+Medium Mutaplasmid Residue	60
+Glorified Decayed Medium Armor Repairer Mutaplasmid Blueprint
+typeID	85869
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	60
+Medium Mutaplasmid Residue	60
+Glorified Decayed Medium Cap Battery Mutaplasmid Blueprint
+typeID	85998
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Cap Battery Mutaplasmid	1
+Medium Mutaplasmid Residue	60
+Engineering Mutaplasmid Residue	60
+Glorified Decayed Medium Energy Neutralizer Mutaplasmid Blueprint
+typeID	86001
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Energy Neutralizer Mutaplasmid	1
+Medium Mutaplasmid Residue	60
+Engineering Mutaplasmid Residue	60
+Glorified Decayed Medium Energy Nosferatu Mutaplasmid Blueprint
+typeID	86003
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Energy Nosferatu Mutaplasmid	1
+Medium Mutaplasmid Residue	60
+Engineering Mutaplasmid Residue	60
+Glorified Decayed Medium Shield Booster Mutaplasmid Blueprint
+typeID	86030
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Shield Booster Mutaplasmid	1
+Medium Mutaplasmid Residue	60
+Shield Mutaplasmid Residue	60
+Glorified Decayed Medium Shield Extender Mutaplasmid Blueprint
+typeID	86033
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Medium Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Medium Shield Extender Mutaplasmid	1
+Medium Mutaplasmid Residue	60
+Shield Mutaplasmid Residue	60
+Glorified Decayed Siege Module Mutaplasmid Blueprint
+typeID	86064
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Siege Module Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Siege Module Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	250
+X-Large Mutaplasmid Residue	250
+Glorified Decayed Small Armor Plate Mutaplasmid Blueprint
+typeID	85851
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Small Armor Repairer Mutaplasmid Blueprint
+typeID	85862
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Small Cap Battery Mutaplasmid Blueprint
+typeID	85981
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Cap Battery Mutaplasmid	1
+Small Mutaplasmid Residue	25
+Engineering Mutaplasmid Residue	25
+Glorified Decayed Small Energy Neutralizer Mutaplasmid Blueprint
+typeID	85992
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Energy Neutralizer Mutaplasmid	1
+Small Mutaplasmid Residue	25
+Engineering Mutaplasmid Residue	25
+Glorified Decayed Small Energy Nosferatu Mutaplasmid Blueprint
+typeID	85995
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Energy Nosferatu Mutaplasmid	1
+Small Mutaplasmid Residue	25
+Engineering Mutaplasmid Residue	25
+Glorified Decayed Small Shield Booster Mutaplasmid Blueprint
+typeID	86016
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Shield Booster Mutaplasmid	1
+Small Mutaplasmid Residue	25
+Shield Mutaplasmid Residue	25
+Glorified Decayed Small Shield Extender Mutaplasmid Blueprint
+typeID	86027
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Small Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Small Shield Extender Mutaplasmid	1
+Small Mutaplasmid Residue	25
+Shield Mutaplasmid Residue	25
+Glorified Decayed Stasis Webifier Mutaplasmid Blueprint
+typeID	86044
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Stasis Webifier Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Stasis Webifier Mutaplasmid	1
+Stasis Webifier Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Vorton Tuning System Mutaplasmid Blueprint
+typeID	86067
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Vorton Tuning System Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Vorton Tuning System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Warp Disruptor Mutaplasmid Blueprint
+typeID	86047
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed Warp Scrambler Mutaplasmid Blueprint
+typeID	86058
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Decayed Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	25
+Small Mutaplasmid Residue	25
+Glorified Decayed X-Large Shield Booster Mutaplasmid Blueprint
+typeID	86043
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Decayed X-Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Decayed X-Large Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	250
+Shield Mutaplasmid Residue	250
+Glorified Exigent Heavy Drone Durability Mutaplasmid Blueprint
+typeID	86141
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Heavy Drone Durability Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Heavy Drone Durability Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Heavy Drone Firepower Mutaplasmid Blueprint
+typeID	86142
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Heavy Drone Firepower Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Heavy Drone Firepower Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Heavy Drone Navigation Mutaplasmid Blueprint
+typeID	86128
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Heavy Drone Navigation Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Heavy Drone Navigation Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Heavy Drone Projection Mutaplasmid Blueprint
+typeID	86129
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Heavy Drone Projection Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Heavy Drone Projection Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Light Drone Durability Mutaplasmid Blueprint
+typeID	86125
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Light Drone Durability Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Light Drone Durability Mutaplasmid	1
+Drone Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Exigent Light Drone Firepower Mutaplasmid Blueprint
+typeID	86126
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Light Drone Firepower Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Light Drone Firepower Mutaplasmid	1
+Drone Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Exigent Light Drone Navigation Mutaplasmid Blueprint
+typeID	86127
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Light Drone Navigation Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Light Drone Navigation Mutaplasmid	1
+Drone Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Exigent Light Drone Projection Mutaplasmid Blueprint
+typeID	86136
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Light Drone Projection Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Light Drone Projection Mutaplasmid	1
+Drone Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Exigent Medium Drone Durability Mutaplasmid Blueprint
+typeID	86137
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Medium Drone Durability Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Medium Drone Durability Mutaplasmid	1
+Drone Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Exigent Medium Drone Firepower Mutaplasmid Blueprint
+typeID	86138
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Medium Drone Firepower Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Medium Drone Firepower Mutaplasmid	1
+Drone Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Exigent Medium Drone Navigation Mutaplasmid Blueprint
+typeID	86139
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Medium Drone Navigation Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Medium Drone Navigation Mutaplasmid	1
+Drone Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Exigent Medium Drone Projection Mutaplasmid Blueprint
+typeID	86140
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Medium Drone Projection Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Medium Drone Projection Mutaplasmid	1
+Drone Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Exigent Sentry Drone Durability Mutaplasmid Blueprint
+typeID	86130
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Sentry Drone Durability Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Sentry Drone Durability Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Sentry Drone Firepower Mutaplasmid Blueprint
+typeID	86131
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Sentry Drone Firepower Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Sentry Drone Firepower Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Sentry Drone Precision Mutaplasmid Blueprint
+typeID	86132
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Sentry Drone Precision Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Sentry Drone Precision Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Exigent Sentry Drone Projection Mutaplasmid Blueprint
+typeID	86133
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Exigent Sentry Drone Projection Mutaplasmid
+Materials	
+Material	Quantity
+Exigent Sentry Drone Projection Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Gravid 10000MN Afterburner Mutaplasmid Blueprint
+typeID	85946
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 10000MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 10000MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	500
+X-Large Mutaplasmid Residue	500
+Glorified Gravid 100MN Afterburner Mutaplasmid Blueprint
+typeID	85943
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 100MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 100MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid 10MN Afterburner Mutaplasmid Blueprint
+typeID	85955
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 10MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 10MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	120
+Medium Mutaplasmid Residue	120
+Glorified Gravid 1MN Afterburner Mutaplasmid Blueprint
+typeID	85941
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 1MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 1MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid 50000MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85949
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 50000MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 50000MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	500
+X-Large Mutaplasmid Residue	500
+Glorified Gravid 500MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85963
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 500MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 500MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid 50MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85958
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 50MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 50MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	120
+Medium Mutaplasmid Residue	120
+Glorified Gravid 5MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85952
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid 5MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Gravid 5MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Assault Damage Control Mutaplasmid Blueprint
+typeID	85974
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Assault Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Assault Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	120
+Medium Mutaplasmid Residue	120
+Glorified Gravid Ballistic Control System Mutaplasmid Blueprint
+typeID	86060
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Ballistic Control System Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Ballistic Control System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Capital Armor Repairer Mutaplasmid Blueprint
+typeID	85859
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Capital Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Capital Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	500
+X-Large Mutaplasmid Residue	500
+Glorified Gravid Capital Energy Neutralizer Mutaplasmid Blueprint
+typeID	85987
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Capital Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Capital Energy Neutralizer Mutaplasmid	1
+X-Large Mutaplasmid Residue	500
+Engineering Mutaplasmid Residue	500
+Glorified Gravid Capital Energy Nosferatu Mutaplasmid Blueprint
+typeID	85990
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Capital Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Capital Energy Nosferatu Mutaplasmid	1
+X-Large Mutaplasmid Residue	500
+Engineering Mutaplasmid Residue	500
+Glorified Gravid Capital Shield Booster Mutaplasmid Blueprint
+typeID	86024
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Capital Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Capital Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	500
+Shield Mutaplasmid Residue	500
+Glorified Gravid Damage Control Mutaplasmid Blueprint
+typeID	85976
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Entropic Radiation Sink Mutaplasmid Blueprint
+typeID	86071
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Entropic Radiation Sink Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Entropic Radiation Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Gyrostabilizer Mutaplasmid Blueprint
+typeID	86074
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Gyrostabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Gyrostabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Heat Sink Mutaplasmid Blueprint
+typeID	86077
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Heat Sink Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Heat Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Heavy Energy Neutralizer Mutaplasmid Blueprint
+typeID	86010
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Heavy Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Heavy Energy Neutralizer Mutaplasmid	1
+Large Mutaplasmid Residue	250
+Engineering Mutaplasmid Residue	250
+Glorified Gravid Heavy Energy Nosferatu Mutaplasmid Blueprint
+typeID	86012
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Heavy Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Heavy Energy Nosferatu Mutaplasmid	1
+Large Mutaplasmid Residue	250
+Engineering Mutaplasmid Residue	250
+Glorified Gravid Heavy Warp Disruptor Mutaplasmid Blueprint
+typeID	86053
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Heavy Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Heavy Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid Heavy Warp Scrambler Mutaplasmid Blueprint
+typeID	86056
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Heavy Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Heavy Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid Large Armor Plate Mutaplasmid Blueprint
+typeID	85873
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Large Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Large Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid Large Armor Repairer Mutaplasmid Blueprint
+typeID	85855
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Large Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Large Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	250
+Large Mutaplasmid Residue	250
+Glorified Gravid Large Cap Battery Mutaplasmid Blueprint
+typeID	86007
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Large Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Large Cap Battery Mutaplasmid	1
+Large Mutaplasmid Residue	250
+Engineering Mutaplasmid Residue	250
+Glorified Gravid Large Shield Booster Mutaplasmid Blueprint
+typeID	86037
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Large Shield Booster Mutaplasmid	1
+Large Mutaplasmid Residue	250
+Shield Mutaplasmid Residue	250
+Glorified Gravid Large Shield Extender Mutaplasmid Blueprint
+typeID	86040
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Large Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Large Shield Extender Mutaplasmid	1
+Large Mutaplasmid Residue	250
+Shield Mutaplasmid Residue	250
+Glorified Gravid Magnetic Field Stabilizer Mutaplasmid Blueprint
+typeID	86062
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Magnetic Field Stabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Magnetic Field Stabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Medium Armor Plate Mutaplasmid Blueprint
+typeID	85867
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	120
+Medium Mutaplasmid Residue	120
+Glorified Gravid Medium Armor Repairer Mutaplasmid Blueprint
+typeID	85870
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	120
+Medium Mutaplasmid Residue	120
+Glorified Gravid Medium Cap Battery Mutaplasmid Blueprint
+typeID	85999
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Cap Battery Mutaplasmid	1
+Medium Mutaplasmid Residue	120
+Engineering Mutaplasmid Residue	120
+Glorified Gravid Medium Energy Neutralizer Mutaplasmid Blueprint
+typeID	85984
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Energy Neutralizer Mutaplasmid	1
+Medium Mutaplasmid Residue	120
+Engineering Mutaplasmid Residue	120
+Glorified Gravid Medium Energy Nosferatu Mutaplasmid Blueprint
+typeID	86004
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Energy Nosferatu Mutaplasmid	1
+Medium Mutaplasmid Residue	120
+Engineering Mutaplasmid Residue	120
+Glorified Gravid Medium Shield Booster Mutaplasmid Blueprint
+typeID	86031
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Shield Booster Mutaplasmid	1
+Medium Mutaplasmid Residue	120
+Shield Mutaplasmid Residue	120
+Glorified Gravid Medium Shield Extender Mutaplasmid Blueprint
+typeID	86034
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Medium Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Medium Shield Extender Mutaplasmid	1
+Medium Mutaplasmid Residue	120
+Shield Mutaplasmid Residue	120
+Glorified Gravid Siege Module Mutaplasmid Blueprint
+typeID	86065
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Siege Module Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Siege Module Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	500
+X-Large Mutaplasmid Residue	500
+Glorified Gravid Small Armor Plate Mutaplasmid Blueprint
+typeID	85852
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Small Armor Repairer Mutaplasmid Blueprint
+typeID	85863
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Small Cap Battery Mutaplasmid Blueprint
+typeID	85982
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Cap Battery Mutaplasmid	1
+Small Mutaplasmid Residue	50
+Engineering Mutaplasmid Residue	50
+Glorified Gravid Small Energy Neutralizer Mutaplasmid Blueprint
+typeID	85993
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Energy Neutralizer Mutaplasmid	1
+Small Mutaplasmid Residue	50
+Engineering Mutaplasmid Residue	50
+Glorified Gravid Small Energy Nosferatu Mutaplasmid Blueprint
+typeID	85996
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Energy Nosferatu Mutaplasmid	1
+Small Mutaplasmid Residue	50
+Engineering Mutaplasmid Residue	50
+Glorified Gravid Small Shield Booster Mutaplasmid Blueprint
+typeID	86017
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Shield Booster Mutaplasmid	1
+Small Mutaplasmid Residue	50
+Shield Mutaplasmid Residue	50
+Glorified Gravid Small Shield Extender Mutaplasmid Blueprint
+typeID	86028
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Small Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Small Shield Extender Mutaplasmid	1
+Small Mutaplasmid Residue	50
+Shield Mutaplasmid Residue	50
+Glorified Gravid Stasis Webifier Mutaplasmid Blueprint
+typeID	86045
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Stasis Webifier Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Stasis Webifier Mutaplasmid	1
+Stasis Webifier Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Vorton Tuning System Mutaplasmid Blueprint
+typeID	86068
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Vorton Tuning System Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Vorton Tuning System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Warp Disruptor Mutaplasmid Blueprint
+typeID	86048
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid Warp Scrambler Mutaplasmid Blueprint
+typeID	86050
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Gravid Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	50
+Small Mutaplasmid Residue	50
+Glorified Gravid X-Large Shield Booster Mutaplasmid Blueprint
+typeID	86020
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Gravid X-Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Gravid X-Large Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	500
+Shield Mutaplasmid Residue	500
+Glorified Radical Drone Damage Amplifier Mutaplasmid Blueprint
+typeID	86134
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Radical Drone Damage Amplifier Mutaplasmid
+Materials	
+Material	Quantity
+Radical Drone Damage Amplifier Mutaplasmid	1
+Drone Mutaplasmid Residue	500
+Small Mutaplasmid Residue	500
+Glorified Radical Fighter Support Unit Mutaplasmid Blueprint
+typeID	86135
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Radical Fighter Support Unit Mutaplasmid
+Materials	
+Material	Quantity
+Radical Fighter Support Unit Mutaplasmid	1
+Drone Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable 10000MN Afterburner Mutaplasmid Blueprint
+typeID	85947
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 10000MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 10000MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable 100MN Afterburner Mutaplasmid Blueprint
+typeID	85961
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 100MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 100MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable 10MN Afterburner Mutaplasmid Blueprint
+typeID	85956
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 10MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 10MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable 1MN Afterburner Mutaplasmid Blueprint
+typeID	85942
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 1MN Afterburner Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 1MN Afterburner Mutaplasmid	1
+Astronautic Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable 50000MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85950
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 50000MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 50000MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable 500MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85944
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 500MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 500MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable 50MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85959
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 50MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 50MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable 5MN Microwarpdrive Mutaplasmid Blueprint
+typeID	85953
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable 5MN Microwarpdrive Mutaplasmid
+Materials	
+Material	Quantity
+Unstable 5MN Microwarpdrive Mutaplasmid	1
+Astronautic Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Assault Damage Control Mutaplasmid Blueprint
+typeID	85975
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Assault Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Assault Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable Ballistic Control System Mutaplasmid Blueprint
+typeID	86061
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Ballistic Control System Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Ballistic Control System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Capital Ancillary Armor Repairer Mutaplasmid Blueprint
+typeID	85861
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Ancillary Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Ancillary Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable Capital Ancillary Shield Booster Mutaplasmid Blueprint
+typeID	86026
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Ancillary Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Ancillary Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Shield Mutaplasmid Residue	1000
+Glorified Unstable Capital Armor Repairer Mutaplasmid Blueprint
+typeID	85860
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable Capital Energy Neutralizer Mutaplasmid Blueprint
+typeID	85988
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Energy Neutralizer Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Engineering Mutaplasmid Residue	1000
+Glorified Unstable Capital Energy Nosferatu Mutaplasmid Blueprint
+typeID	85991
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Energy Nosferatu Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Engineering Mutaplasmid Residue	1000
+Glorified Unstable Capital Shield Booster Mutaplasmid Blueprint
+typeID	86025
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Capital Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Capital Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Shield Mutaplasmid Residue	1000
+Glorified Unstable Damage Control Mutaplasmid Blueprint
+typeID	85977
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Damage Control Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Damage Control Mutaplasmid	1
+Damage Control Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Entropic Radiation Sink Mutaplasmid Blueprint
+typeID	86072
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Entropic Radiation Sink Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Entropic Radiation Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Gyrostabilizer Mutaplasmid Blueprint
+typeID	86075
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Gyrostabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Gyrostabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Heat Sink Mutaplasmid Blueprint
+typeID	86078
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Heat Sink Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Heat Sink Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Heavy Energy Neutralizer Mutaplasmid Blueprint
+typeID	86011
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Heavy Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Heavy Energy Neutralizer Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Engineering Mutaplasmid Residue	500
+Glorified Unstable Heavy Energy Nosferatu Mutaplasmid Blueprint
+typeID	86013
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Heavy Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Heavy Energy Nosferatu Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Engineering Mutaplasmid Residue	500
+Glorified Unstable Heavy Warp Disruptor Mutaplasmid Blueprint
+typeID	86054
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Heavy Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Heavy Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable Heavy Warp Scrambler Mutaplasmid Blueprint
+typeID	86057
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Heavy Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Heavy Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable Large Ancillary Armor Repairer Mutaplasmid Blueprint
+typeID	85857
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Ancillary Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Ancillary Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable Large Ancillary Shield Booster Mutaplasmid Blueprint
+typeID	86042
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Ancillary Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Ancillary Shield Booster Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Shield Mutaplasmid Residue	500
+Glorified Unstable Large Armor Plate Mutaplasmid Blueprint
+typeID	85874
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable Large Armor Repairer Mutaplasmid Blueprint
+typeID	85856
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	500
+Large Mutaplasmid Residue	500
+Glorified Unstable Large Cap Battery Mutaplasmid Blueprint
+typeID	86008
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Cap Battery Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Engineering Mutaplasmid Residue	500
+Glorified Unstable Large Shield Booster Mutaplasmid Blueprint
+typeID	86038
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Shield Booster Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Shield Mutaplasmid Residue	500
+Glorified Unstable Large Shield Extender Mutaplasmid Blueprint
+typeID	86041
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Large Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Large Shield Extender Mutaplasmid	1
+Large Mutaplasmid Residue	500
+Shield Mutaplasmid Residue	500
+Glorified Unstable Magnetic Field Stabilizer Mutaplasmid Blueprint
+typeID	86063
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Magnetic Field Stabilizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Magnetic Field Stabilizer Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Medium Ancillary Armor Repairer Mutaplasmid Blueprint
+typeID	85854
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Ancillary Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Ancillary Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable Medium Ancillary Shield Booster Mutaplasmid Blueprint
+typeID	86036
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Ancillary Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Shield Booster Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Shield Mutaplasmid Residue	240
+Glorified Unstable Medium Armor Plate Mutaplasmid Blueprint
+typeID	85868
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable Medium Armor Repairer Mutaplasmid Blueprint
+typeID	85871
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	240
+Medium Mutaplasmid Residue	240
+Glorified Unstable Medium Cap Battery Mutaplasmid Blueprint
+typeID	86000
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Cap Battery Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Engineering Mutaplasmid Residue	240
+Glorified Unstable Medium Energy Neutralizer Mutaplasmid Blueprint
+typeID	86002
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Energy Neutralizer Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Engineering Mutaplasmid Residue	240
+Glorified Unstable Medium Energy Nosferatu Mutaplasmid Blueprint
+typeID	86005
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Energy Nosferatu Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Engineering Mutaplasmid Residue	240
+Glorified Unstable Medium Shield Booster Mutaplasmid Blueprint
+typeID	86032
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Shield Booster Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Shield Mutaplasmid Residue	240
+Glorified Unstable Medium Shield Extender Mutaplasmid Blueprint
+typeID	86035
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Medium Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Medium Shield Extender Mutaplasmid	1
+Medium Mutaplasmid Residue	240
+Shield Mutaplasmid Residue	240
+Glorified Unstable Siege Module Mutaplasmid Blueprint
+typeID	86066
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Siege Module Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Siege Module Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	1000
+X-Large Mutaplasmid Residue	1000
+Glorified Unstable Small Ancillary Armor Repairer Mutaplasmid Blueprint
+typeID	85865
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Ancillary Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Ancillary Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Small Armor Plate Mutaplasmid Blueprint
+typeID	85853
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Armor Plate Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Armor Plate Mutaplasmid	1
+Armor Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Small Armor Repairer Mutaplasmid Blueprint
+typeID	85864
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Armor Repairer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Armor Repairer Mutaplasmid	1
+Armor Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Small Cap Battery Mutaplasmid Blueprint
+typeID	85983
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Cap Battery Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Cap Battery Mutaplasmid	1
+Small Mutaplasmid Residue	100
+Engineering Mutaplasmid Residue	100
+Glorified Unstable Small Energy Neutralizer Mutaplasmid Blueprint
+typeID	85994
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Energy Neutralizer Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Energy Neutralizer Mutaplasmid	1
+Small Mutaplasmid Residue	100
+Engineering Mutaplasmid Residue	100
+Glorified Unstable Small Energy Nosferatu Mutaplasmid Blueprint
+typeID	85997
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Energy Nosferatu Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Energy Nosferatu Mutaplasmid	1
+Small Mutaplasmid Residue	100
+Engineering Mutaplasmid Residue	100
+Glorified Unstable Small Shield Booster Mutaplasmid Blueprint
+typeID	86018
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Shield Booster Mutaplasmid	1
+Small Mutaplasmid Residue	100
+Shield Mutaplasmid Residue	100
+Glorified Unstable Small Shield Extender Mutaplasmid Blueprint
+typeID	86029
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Small Shield Extender Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Small Shield Extender Mutaplasmid	1
+Small Mutaplasmid Residue	100
+Shield Mutaplasmid Residue	100
+Glorified Unstable Stasis Webifier Mutaplasmid Blueprint
+typeID	86046
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Stasis Webifier Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Stasis Webifier Mutaplasmid	1
+Stasis Webifier Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Vorton Tuning System Mutaplasmid Blueprint
+typeID	86069
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Vorton Tuning System Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Vorton Tuning System Mutaplasmid	1
+Weapon Upgrade Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Warp Disruptor Mutaplasmid Blueprint
+typeID	86049
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Warp Disruptor Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Warp Disruptor Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable Warp Scrambler Mutaplasmid Blueprint
+typeID	86051
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable Warp Scrambler Mutaplasmid
+Materials	
+Material	Quantity
+Unstable Warp Scrambler Mutaplasmid	1
+Warp Disruption Mutaplasmid Residue	100
+Small Mutaplasmid Residue	100
+Glorified Unstable X-Large Ancillary Shield Booster Mutaplasmid Blueprint
+typeID	86022
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable X-Large Ancillary Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable X-Large Ancillary Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Shield Mutaplasmid Residue	1000
+Glorified Unstable X-Large Shield Booster Mutaplasmid Blueprint
+typeID	86021
+Volume	0.10 m³
+Category	Mutaplasmid Blueprint
+Produces	Glorified Unstable X-Large Shield Booster Mutaplasmid
+Materials	
+Material	Quantity
+Unstable X-Large Shield Booster Mutaplasmid	1
+X-Large Mutaplasmid Residue	1000
+Shield Mutaplasmid Residue	1000

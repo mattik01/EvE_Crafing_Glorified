@@ -1,0 +1,75 @@
+X-Large Mutaplasmid Residue	150
+Shield Mutaplasmid Residue	150
+Decayed Small Shield Extender Mutaplasmid	32
+Decayed Medium Shield Extender Mutaplasmid	27
+Decayed Medium Shield Booster Mutaplasmid	22
+Decayed Small Shield Booster Mutaplasmid	19
+Decayed Large Shield Booster Mutaplasmid	13
+Decayed Warp Disruptor Mutaplasmid	11
+Decayed Large Shield Extender Mutaplasmid	11
+Decayed Gyrostabilizer Mutaplasmid	9
+Decayed Medium Proton Smartbomb Mutaplasmid	8
+Decayed Small Proton Smartbomb Mutaplasmid	7
+Decayed Small Plasma Smartbomb Mutaplasmid	7
+Decayed Medium Plasma Smartbomb Mutaplasmid	7
+Decayed Warp Scrambler Mutaplasmid	6
+Decayed Stasis Webifier Mutaplasmid	6
+Decayed Magnetic Field Stabilizer Mutaplasmid	6
+Decayed Medium Armor Repairer Mutaplasmid	5
+Decayed Medium Armor Plate Mutaplasmid	5
+Decayed Large Armor Repairer Mutaplasmid	5
+Gravid Small Shield Extender Mutaplasmid	4
+Decayed Medium Energy Neutralizer Mutaplasmid	4
+Decayed Large Plasma Smartbomb Mutaplasmid	4
+Decayed Heat Sink Mutaplasmid	4
+Decayed Entropic Radiation Sink Mutaplasmid	4
+Gravid Small Shield Booster Mutaplasmid	3
+Decayed Small Armor Repairer Mutaplasmid	3
+Decayed Small Armor Plate Mutaplasmid	3
+Decayed Large Proton Smartbomb Mutaplasmid	3
+Decayed Large Armor Plate Mutaplasmid	3
+Unstable Large Shield Booster Mutaplasmid	2
+Gravid X-Large Shield Booster Mutaplasmid	2
+Gravid Medium Armor Plate Mutaplasmid	2
+Gravid Large Shield Booster Mutaplasmid	2
+Decayed Small Energy Nosferatu Mutaplasmid	2
+Decayed Medium Graviton Smartbomb Mutaplasmid	2
+Decayed Medium EMP Smartbomb Mutaplasmid	2
+Decayed Large EMP Smartbomb Mutaplasmid	2
+Decayed Large Cap Battery Mutaplasmid	2
+Decayed Heavy Energy Neutralizer Mutaplasmid	2
+Unstable Small Shield Extender Mutaplasmid	1
+Unstable Small EMP Smartbomb Mutaplasmid	1
+Unstable Medium Shield Extender Mutaplasmid	1
+Unstable Magnetic Field Stabilizer Mutaplasmid	1
+Unstable Heat Sink Mutaplasmid	1
+Gravid Small EMP Smartbomb Mutaplasmid	1
+Gravid Small Cap Battery Mutaplasmid	1
+Gravid Medium Shield Extender Mutaplasmid	1
+Gravid Magnetic Field Stabilizer Mutaplasmid	1
+Gravid Large Shield Extender Mutaplasmid	1
+Gravid Heat Sink Mutaplasmid	1
+Gravid Entropic Radiation Sink Mutaplasmid	1
+Decayed X-Large Shield Booster Mutaplasmid	1
+Decayed Small Energy Neutralizer Mutaplasmid	1
+Decayed Medium Energy Nosferatu Mutaplasmid	1
+Decayed Heavy Energy Nosferatu Mutaplasmid	1
+Glorified Gravid X-Large Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed X-Large Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Extender Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Extender Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Extender Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed Small Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed Small Energy Neutralizer Mutaplasmid Blueprint	
+Glorified Decayed Medium Energy Nosferatu Mutaplasmid Blueprint	
+Glorified Decayed Medium Armor Repairer Mutaplasmid Blueprint	
+Glorified Decayed Medium Armor Repairer Mutaplasmid Blueprint	
+Glorified Decayed Magnetic Field Stabilizer Mutaplasmid Blueprint	
+Glorified Decayed Large Shield Booster Mutaplasmid Blueprint	
+Glorified Decayed Large Armor Repairer Mutaplasmid Blueprint	
+Glorified Decayed Heat Sink Mutaplasmid Blueprint	
+Glorified Decayed Heat Sink Mutaplasmid Blueprint	
+Glorified Decayed Entropic Radiation Sink Mutaplasmid Blueprint	
+Glorified Decayed Ballistic Control System Mutaplasmid Blueprint	
